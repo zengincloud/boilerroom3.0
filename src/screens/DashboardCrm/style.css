@@ -1,0 +1,6682 @@
+.dashboard-CRM {
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard-CRM .div {
+  background-color: #1e1e1e;
+  height: 2424.75px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.dashboard-CRM .div-2 {
+  height: 2425px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.dashboard-CRM .calendar-container {
+  height: 2353px;
+  left: 240px;
+  position: absolute;
+  top: 0;
+  width: 1680px;
+}
+
+.dashboard-CRM .calendar-container-2 {
+  height: 2227px;
+  left: 18px;
+  position: absolute;
+  top: 126px;
+  width: 1645px;
+}
+
+.dashboard-CRM .pagination-container {
+  height: 626px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1234px;
+}
+
+.dashboard-CRM .button {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 125px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.dashboard-CRM .slider-container {
+  height: 123px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 281px;
+}
+
+.dashboard-CRM .img {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 281px;
+}
+
+.dashboard-CRM .container {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.dashboard-CRM .paragraph-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 20px;
+  padding: 0px 0px 0.3px;
+  position: absolute;
+  top: 17px;
+}
+
+.dashboard-CRM .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 32.3px;
+  margin-top: -0.48px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .img-2 {
+  height: 40px;
+  left: 221px;
+  position: absolute;
+  top: 18px;
+  width: 40px;
+}
+
+.dashboard-CRM .switch-container-wrapper {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 125px;
+  left: 321px;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.dashboard-CRM .switch-container {
+  align-items: center;
+  display: inline-flex;
+  left: -12px;
+  padding: 9.66px 82.09px 9.66px 0px;
+  position: relative;
+  top: 1px;
+}
+
+.dashboard-CRM .div-wrapper {
+  height: 103.69px;
+  overflow: hidden;
+  position: relative;
+  width: 150px;
+}
+
+.dashboard-CRM .switch-container-2 {
+  height: 104px;
+}
+
+.dashboard-CRM .switch-container-3 {
+  height: 105px;
+  left: 26px;
+  position: relative;
+  top: -11px;
+  width: 102px;
+}
+
+.dashboard-CRM .overlap-wrapper {
+  height: 105px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.dashboard-CRM .overlap {
+  height: 106px;
+  position: relative;
+  width: 104px;
+}
+
+.dashboard-CRM .switch-container-4 {
+  height: 89px;
+  left: 5px;
+  position: absolute;
+  top: 18px;
+  width: 89px;
+}
+
+.dashboard-CRM .overlap-group-wrapper {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.dashboard-CRM .overlap-group {
+  height: 37px;
+  left: 26px;
+  position: relative;
+  top: 38px;
+  width: 45px;
+}
+
+.dashboard-CRM .svgjs-text {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #828690;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-2 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #828690;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-line-wrapper {
+  background-image: url(./svgjs-line-1119.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: -308px;
+  position: absolute;
+  top: -772px;
+  width: 101px;
+}
+
+.dashboard-CRM .svgjs-line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.dashboard-CRM .container-2 {
+  height: 91.06px;
+  margin-left: -20px;
+  position: relative;
+  width: 82.34px;
+}
+
+.dashboard-CRM .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 23px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .horizontal-container {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 82px;
+}
+
+.dashboard-CRM .img-3 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 10px;
+}
+
+.dashboard-CRM .text-wrapper-4 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 20px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .horizontal-container-2 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 82px;
+}
+
+.dashboard-CRM .slider-container-2 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 25px;
+  width: 10px;
+}
+
+.dashboard-CRM .text-wrapper-5 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 20px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .horizontal-container-3 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 82px;
+}
+
+.dashboard-CRM .text-wrapper-6 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 20px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .tooltip {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 125px;
+  left: 629px;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.dashboard-CRM .slider-container-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 1px;
+  padding: 0px 0px 10.19px;
+  position: relative;
+  top: 1px;
+}
+
+.dashboard-CRM .container-3 {
+  height: 72.81px;
+  position: relative;
+  width: 281.44px;
+  z-index: 1;
+}
+
+.dashboard-CRM .slider-container-4 {
+  height: 40px;
+  position: relative;
+  width: 281px;
+  z-index: 0;
+}
+
+.dashboard-CRM .container-wrapper {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 125px;
+  left: 938px;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.dashboard-CRM .container-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 1px;
+  padding: 20px 19.39px 15px 20px;
+  position: relative;
+  top: 1px;
+}
+
+.dashboard-CRM .button-container {
+  height: 54.81px;
+  position: relative;
+  width: 241.44px;
+  z-index: 1;
+}
+
+.dashboard-CRM .paragraph-container-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 0.3px;
+  position: absolute;
+  top: -1px;
+}
+
+.dashboard-CRM .button-container-2 {
+  height: 40px;
+  left: 201px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.dashboard-CRM .text-input-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: -1px;
+  position: relative;
+  z-index: 0;
+}
+
+.dashboard-CRM .paragraph-container-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 73.05px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-7 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-input {
+  align-items: flex-start;
+  background-color: #e6eaee;
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 0px 120.72px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  position: relative;
+  width: 120.72px;
+}
+
+.dashboard-CRM .pagination-container-2 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 442px;
+  left: 12px;
+  overflow: hidden;
+  position: absolute;
+  top: 155px;
+  width: 798px;
+}
+
+.dashboard-CRM .button-2 {
+  align-items: center;
+  border-radius: 11px 11px 0px 0px;
+  display: inline-flex;
+  gap: 339.62px;
+  left: 1px;
+  padding: 24px 20px 0px;
+  position: absolute;
+  top: 1px;
+}
+
+.dashboard-CRM .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .segmented-picker {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  padding: 0px 4px;
+  position: relative;
+}
+
+.dashboard-CRM .button-3 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #0d99ff;
+  border-radius: 4px;
+  box-shadow: 0px 0px 20px #0d99ff33;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 15.52px 4.5px 14px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-4 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #444444;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 14.89px 4.5px 15px;
+  position: relative;
+}
+
+.dashboard-CRM .button-5 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #444444;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 15.3px 4.5px 14px;
+  position: relative;
+}
+
+.dashboard-CRM .button-6 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #444444;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 15.17px 4.5px 14px;
+  position: relative;
+}
+
+.dashboard-CRM .pagination-container-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 1px;
+  position: absolute;
+  top: 54px;
+}
+
+.dashboard-CRM .pagination-container-wrapper {
+  height: 300px;
+  position: relative;
+  width: 796px;
+}
+
+.dashboard-CRM .pagination-container-4 {
+  height: 300px;
+  position: relative;
+}
+
+.dashboard-CRM .pagination {
+  height: 234px;
+  left: 50px;
+  position: absolute;
+  top: 30px;
+  width: 729px;
+}
+
+.dashboard-CRM .overlap-2 {
+  height: 207px;
+  left: -10px;
+  position: absolute;
+  top: -982px;
+  width: 724px;
+}
+
+.dashboard-CRM .svgjs-line-2 {
+  height: 207px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.dashboard-CRM .svgjs-line-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 724px;
+}
+
+.dashboard-CRM .svgjs-line-4 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 724px;
+}
+
+.dashboard-CRM .svgjs-rect {
+  height: 100px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.dashboard-CRM .overlap-group-2 {
+  height: 234px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 729px;
+}
+
+.dashboard-CRM .container-5 {
+  height: 26px;
+  left: 2px;
+  position: absolute;
+  top: 208px;
+  width: 724px;
+}
+
+.dashboard-CRM .paragraph-container-4 {
+  height: 15px;
+  left: 3px;
+  position: absolute;
+  top: 11px;
+  width: 745px;
+}
+
+.dashboard-CRM .svgjs-text-3 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-4 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-5 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-6 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-7 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 252px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-8 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 318px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-9 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-10 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 443px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-11 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 506px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-12 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 572px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-13 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-14 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 697px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-input-container-2 {
+  height: 214px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 724px;
+}
+
+.dashboard-CRM .img-4 {
+  height: 208px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 729px;
+}
+
+.dashboard-CRM .svgjs-rect-2 {
+  height: 100px;
+  left: -12px;
+  position: absolute;
+  top: -982px;
+  width: 100px;
+}
+
+.dashboard-CRM .card {
+  height: 222px;
+  left: 17px;
+  position: absolute;
+  top: 18px;
+  width: 22px;
+}
+
+.dashboard-CRM .paragraph-container-5 {
+  height: 222px;
+  position: relative;
+  width: 32px;
+}
+
+.dashboard-CRM .svgjs-text-15 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-16 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-17 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-18 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 155px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-19 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 207px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .horizontal-container-4 {
+  border-color: #444444;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 76px;
+  position: relative;
+  width: 795.5px;
+}
+
+.dashboard-CRM .text-input-container-3 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 48px;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard-CRM .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-11 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-input-2 {
+  background-color: #444444;
+  height: 85px;
+  left: 182px;
+  position: absolute;
+  top: -20px;
+  width: 1px;
+}
+
+.dashboard-CRM .horizontal-container-5 {
+  height: 45px;
+  left: 277px;
+  position: absolute;
+  top: 16px;
+  width: 102px;
+}
+
+.dashboard-CRM .overlap-group-3 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 103px;
+}
+
+.dashboard-CRM .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 24px;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-13 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .slider-2 {
+  background-color: #444444;
+  height: 85px;
+  left: 151px;
+  position: absolute;
+  top: -20px;
+  width: 1px;
+}
+
+.dashboard-CRM .container-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 475px;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard-CRM .slider-3 {
+  background-color: #444444;
+  height: 85px;
+  left: 125px;
+  position: absolute;
+  top: -20px;
+  width: 1px;
+}
+
+.dashboard-CRM .paragraph-container-6 {
+  height: 45px;
+  left: 647px;
+  position: absolute;
+  top: 16px;
+  width: 101px;
+}
+
+.dashboard-CRM .overlap-3 {
+  height: 44px;
+  position: relative;
+  top: -1px;
+}
+
+.dashboard-CRM .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 24px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .vertical-container {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 442px;
+  left: 835px;
+  position: absolute;
+  top: 155px;
+  width: 386px;
+}
+
+.dashboard-CRM .text-input-container-4 {
+  border-radius: 11px 11px 0px 0px;
+  height: 68px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 384px;
+}
+
+.dashboard-CRM .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 24px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-input-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 215px;
+  padding: 0px 7.44px 1px 0px;
+  position: absolute;
+  top: 24px;
+}
+
+.dashboard-CRM .p {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .vertical-container-2 {
+  height: 362px;
+  left: 1px;
+  overflow: hidden;
+  position: absolute;
+  top: 69px;
+  width: 384px;
+}
+
+.dashboard-CRM .button-container-wrapper {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .button-container-3 {
+  align-items: flex-start;
+  background-color: #242424;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  padding: 15px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .button-7 {
+  all: unset;
+  box-sizing: border-box;
+  height: 21px;
+  position: relative;
+  width: 344.23px;
+}
+
+.dashboard-CRM .img-5 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.dashboard-CRM .latest-to-do-s {
+  color: #ff9f00;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .div-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 19.86px;
+  position: relative;
+}
+
+.dashboard-CRM .div-4 {
+  height: 55px;
+  position: relative;
+  width: 260.62px;
+}
+
+.dashboard-CRM .horizontal-container-6 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 9px;
+}
+
+.dashboard-CRM .button-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 19px;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .container-7 {
+  height: 32px;
+  position: relative;
+  width: 241.62px;
+}
+
+.dashboard-CRM .slider-4 {
+  background-color: #1e1e1e;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 3.5px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.dashboard-CRM .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  width: 216px;
+}
+
+.dashboard-CRM .text-wrapper-17 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-container-4 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.dashboard-CRM .button-container-5 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 115px;
+}
+
+.dashboard-CRM .latest-finished-to {
+  color: #3ac977;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-wrapper {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 230px;
+}
+
+.dashboard-CRM .horizontal-container-wrapper {
+  align-items: flex-start;
+  background-color: #242424;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 15px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .button-container-6 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 316px;
+}
+
+.dashboard-CRM .button-9 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #242424;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 15px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .container-8 {
+  height: 32px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+
+.dashboard-CRM .card-2 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 596px;
+  left: 1246px;
+  position: absolute;
+  top: 0;
+  width: 386px;
+}
+
+.dashboard-CRM .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 23px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.dashboard-CRM .number-input-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 1px;
+  padding: 20px 0px 17.5px;
+  position: absolute;
+  top: 49px;
+}
+
+.dashboard-CRM .number-input {
+  height: 509px;
+  position: relative;
+  width: 384.25px;
+}
+
+.dashboard-CRM .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 38px;
+  font-weight: 600;
+  height: 57px;
+  left: 99px;
+  letter-spacing: 0;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .horizontal-container-7 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 65px;
+  width: 384px;
+}
+
+.dashboard-CRM .slider-5 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-color: #0d99ff;
+  display: inline-flex;
+  left: 53px;
+  padding: 3px 5.58px 8px 4px;
+  position: absolute;
+  top: 6px;
+}
+
+.dashboard-CRM .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-21 {
+  color: #888888;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-22 {
+  color: #888888;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 208px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-23 {
+  color: #888888;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 293px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .number-input-2 {
+  height: 350px;
+  left: -45px;
+  position: absolute;
+  top: 144px;
+  width: 439px;
+}
+
+.dashboard-CRM .number-input-3 {
+  height: 350px;
+  position: relative;
+}
+
+.dashboard-CRM .overlap-4 {
+  height: 319px;
+  left: 42px;
+  position: absolute;
+  top: 20px;
+  width: 390px;
+}
+
+.dashboard-CRM .number-input-4 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 390px;
+}
+
+.dashboard-CRM .overlap-5 {
+  height: 282px;
+  left: -1198px;
+  position: absolute;
+  top: -982px;
+  width: 384px;
+}
+
+.dashboard-CRM .svgjs-line-5 {
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.dashboard-CRM .svgjs-line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 384px;
+}
+
+.dashboard-CRM .overlap-group-4 {
+  height: 313px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 384px;
+}
+
+.dashboard-CRM .horizontal-container-8 {
+  height: 313px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 349px;
+}
+
+.dashboard-CRM .horizontal-container-9 {
+  height: 313px;
+  position: relative;
+  width: 361px;
+}
+
+.dashboard-CRM .svgjs-text-20 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-21 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-22 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 163px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-23 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 218px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-24 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 273px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-25 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-input-container-5 {
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 384px;
+}
+
+.dashboard-CRM .container-9 {
+  height: 284px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 384px;
+}
+
+.dashboard-CRM .paragraph-container-wrapper {
+  height: 295px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.dashboard-CRM .paragraph-container-7 {
+  height: 295px;
+  position: relative;
+  width: 29px;
+}
+
+.dashboard-CRM .svgjs-text-26 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-27 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 71px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-28 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-29 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 212px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-text-30 {
+  color: #828690;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 282px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .svgjs-rect-3 {
+  height: 100px;
+  left: -1201px;
+  position: absolute;
+  top: -986px;
+  width: 100px;
+}
+
+.dashboard-CRM .calendar {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 409px;
+  left: 12px;
+  position: absolute;
+  top: 626px;
+  width: 798px;
+}
+
+.dashboard-CRM .container-10 {
+  height: 403px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 796px;
+}
+
+.dashboard-CRM .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 24px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .tree {
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 796px;
+}
+
+.dashboard-CRM .button-10 {
+  align-items: flex-start;
+  border-radius: 2px;
+  display: inline-flex;
+  left: 646px;
+  overflow: hidden;
+  padding: 5.5px 13px 7.3px 12px;
+  position: absolute;
+  top: -44px;
+}
+
+.dashboard-CRM .paragraph-container-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.75px;
+  padding: 0px 2.19px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-25 {
+  color: #0d99ff;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-26 {
+  color: #0d99ff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .div-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .div-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.dashboard-CRM .company-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 143.84px;
+}
+
+.dashboard-CRM .company {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.dashboard-CRM .span {
+  font-weight: 500;
+}
+
+.dashboard-CRM .text-wrapper-27 {
+  font-family: "Font Awesome 5 Free-Regular", Helvetica;
+  font-size: 9px;
+}
+
+.dashboard-CRM .prospect-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 190.5px;
+}
+
+.dashboard-CRM .div-7 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.dashboard-CRM .hot-meter-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 113.25px;
+}
+
+.dashboard-CRM .hot-meter {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.dashboard-CRM .assignee-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 115.3px;
+}
+
+.dashboard-CRM .assignee {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.dashboard-CRM .status-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 112.12px;
+}
+
+.dashboard-CRM .status {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.dashboard-CRM .due-date-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 120.48px;
+}
+
+.dashboard-CRM .due-date {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.dashboard-CRM .div-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.dashboard-CRM .horizontal-container-10 {
+  height: 50px;
+  position: relative;
+  width: 795.5px;
+}
+
+.dashboard-CRM .text-wrapper-28 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 20px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .vertical-container-3 {
+  height: 30px;
+  left: 164px;
+  position: absolute;
+  top: 10px;
+  width: 150px;
+}
+
+.dashboard-CRM .text-wrapper-29 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 24px;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .image {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.dashboard-CRM .div-9 {
+  align-items: center;
+  display: inline-flex;
+  gap: 5px;
+  left: 354px;
+  position: absolute;
+  top: 15px;
+}
+
+.dashboard-CRM .slider-6 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  padding: 0px 29.41px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .button-11 {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  margin-right: -0.30px;
+  position: relative;
+  width: 33.14px;
+}
+
+.dashboard-CRM .text-wrapper-30 {
+  color: #0d99ff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .switch {
+  height: 30px;
+  left: 468px;
+  position: absolute;
+  top: 10px;
+  width: 95px;
+}
+
+.dashboard-CRM .overlap-group-5 {
+  height: 30px;
+  position: relative;
+  width: 71px;
+}
+
+.dashboard-CRM .image-2 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.dashboard-CRM .image-3 {
+  height: 30px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.dashboard-CRM .button-12 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 583px;
+  padding: 5px 11.33px 5px 12px;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard-CRM .text-wrapper-31 {
+  color: #0d99ff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-32 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 20px;
+  left: 697px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  text-align: right;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .slider-wrapper {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  padding: 0px 43.8px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-7 {
+  background-color: #ff5e5e;
+  border-radius: 4px;
+  height: 5px;
+  margin-right: -0.30px;
+  position: relative;
+  width: 18.75px;
+}
+
+.dashboard-CRM .text-wrapper-33 {
+  color: #ff5e5e;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-13 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #ff5e5e26;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 583px;
+  padding: 5px 12.56px 5px 11px;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard-CRM .text-wrapper-34 {
+  color: #ff5e5e;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-35 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 20px;
+  left: 696px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  text-align: right;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-14 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #ff5e5e26;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 583px;
+  padding: 5px 11.33px 5px 12px;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard-CRM .slider-container-5 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  padding: 0px 37.22px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-8 {
+  background-color: #3ac977;
+  border-radius: 4px;
+  height: 5px;
+  margin-right: -0.78px;
+  position: relative;
+  width: 24.81px;
+}
+
+.dashboard-CRM .text-wrapper-36 {
+  color: #3ac977;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .overlap-group-6 {
+  height: 30px;
+  position: relative;
+  width: 91px;
+}
+
+.dashboard-CRM .image-4 {
+  height: 30px;
+  left: 61px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.dashboard-CRM .button-15 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #3ac9771a;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 583px;
+  padding: 5px 11.12px 5px 12px;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard-CRM .text-wrapper-37 {
+  color: #3ac977;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 298px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-container-7 {
+  background-color: #242424;
+  border-radius: 16px;
+  height: 44px;
+  left: 642px;
+  position: absolute;
+  top: 290px;
+  width: 154px;
+}
+
+.dashboard-CRM .text-wrapper-39 {
+  color: #0d99ff;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 13px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-container-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 11.25px;
+  left: 49px;
+  padding: 0px 10.75px 0px 2px;
+  position: absolute;
+  top: 10px;
+}
+
+.dashboard-CRM .button-16 {
+  all: unset;
+  background-color: #0d99ff;
+  border-radius: 6px;
+  box-sizing: border-box;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.dashboard-CRM .text-wrapper-40 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.dashboard-CRM .text-wrapper-41 {
+  color: #0d99ff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-42 {
+  color: #0d99ff;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 13px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .number-input-5 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 409px;
+  left: 835px;
+  overflow: hidden;
+  position: absolute;
+  top: 626px;
+  width: 798px;
+}
+
+.dashboard-CRM .text-wrapper-43 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 23px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.dashboard-CRM .table {
+  height: 304px;
+  left: 8px;
+  position: absolute;
+  top: 89px;
+  width: 800px;
+}
+
+.dashboard-CRM .rating-container {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 12.5px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .rating-container-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 0.02px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .rating-container-3 {
+  height: 304px;
+  position: relative;
+  width: 508.64px;
+}
+
+.dashboard-CRM .text-input-4 {
+  background-color: #000000;
+  border-radius: 3px;
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 17px;
+}
+
+.dashboard-CRM .text-wrapper-44 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  width: 10px;
+}
+
+.dashboard-CRM .container-11 {
+  background-color: #000000;
+  border-radius: 3px;
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 30px;
+  width: 17px;
+}
+
+.dashboard-CRM .text-wrapper-45 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  width: 8px;
+}
+
+.dashboard-CRM .text-input-5 {
+  background-color: #444444;
+  height: 417px;
+  left: 533px;
+  position: absolute;
+  top: -91px;
+  width: 1px;
+}
+
+.dashboard-CRM .input-form-container {
+  height: 350px;
+  left: 534px;
+  overflow: hidden;
+  position: absolute;
+  top: -65px;
+  width: 267px;
+}
+
+.dashboard-CRM .input-form {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 12px;
+  padding: 0px 0px 97.38px;
+  position: relative;
+}
+
+.dashboard-CRM .div-10 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  height: 49.19px;
+  position: relative;
+  width: 234.33px;
+}
+
+.dashboard-CRM .image-5 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.dashboard-CRM .div-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 42px;
+  position: absolute;
+  top: 8px;
+}
+
+.dashboard-CRM .paragraph-container-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 129.11px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-container-6 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 0px 76.94px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-9 {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  position: relative;
+  width: 115.39px;
+}
+
+.dashboard-CRM .paragraph-container-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 106.66px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-container-7 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 0px 134.64px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-10 {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  position: relative;
+  width: 57.69px;
+}
+
+.dashboard-CRM .paragraph-container-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 118.86px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-container-8 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 0px 153.88px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-11 {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  position: relative;
+  width: 38.45px;
+}
+
+.dashboard-CRM .paragraph-container-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 52.09px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-container-9 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 0px 115.41px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-12 {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  position: relative;
+  width: 76.92px;
+}
+
+.dashboard-CRM .paragraph-container-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 102.02px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-container-10 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 0px 57.7px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-13 {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  position: relative;
+  width: 134.62px;
+}
+
+.dashboard-CRM .paragraph-container-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 71.86px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-container-11 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 0px 38.47px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-14 {
+  background-color: #0d99ff;
+  border-radius: 4px;
+  height: 5px;
+  position: relative;
+  width: 153.86px;
+}
+
+.dashboard-CRM .paragraph-container-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 104.86px;
+  padding: 0px 0px 0.19px;
+  position: relative;
+}
+
+.dashboard-CRM .card-3 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 616px;
+  left: 12px;
+  position: absolute;
+  top: 1066px;
+  width: 523px;
+}
+
+.dashboard-CRM .button-container-9 {
+  align-items: flex-start;
+  border-radius: 11px 11px 0px 0px;
+  display: inline-flex;
+  gap: 320px;
+  left: 1px;
+  padding: 24px 20px 20px;
+  position: absolute;
+  top: 1px;
+}
+
+.dashboard-CRM .text-wrapper-46 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-container-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.dashboard-CRM .vertical-container-4 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.dashboard-CRM .button-17 {
+  background-color: #242424;
+  border-radius: 4px;
+  height: 24px;
+  position: relative;
+  width: 78.88px;
+}
+
+.dashboard-CRM .container-12 {
+  height: 20px;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 2px;
+  width: 46px;
+}
+
+.dashboard-CRM .button-18 {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: inline-flex;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-47 {
+  color: #0d99ff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-48 {
+  color: #0d99ff;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 11.2px;
+  font-weight: 400;
+  height: 20px;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .input-form-container-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 1px;
+  padding: 0px 20px 20px;
+  position: absolute;
+  top: 69px;
+}
+
+.dashboard-CRM .input-form-2 {
+  height: 475.19px;
+  position: relative;
+  width: 481.33px;
+}
+
+.dashboard-CRM .overlap-group-7 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.dashboard-CRM .button-container-11 {
+  height: 106px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.dashboard-CRM .button-container-12 {
+  height: 106px;
+  left: 34px;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.dashboard-CRM .button-19 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #171717;
+  border-radius: 0px 10px 10px 10px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 0;
+  padding: 9px 14.2px 10.8px 15px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .text-wrapper-49 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-20 {
+  align-items: flex-start;
+  background-color: #171717;
+  border-radius: 0px 10px 10px 10px;
+  display: inline-flex;
+  left: 0;
+  padding: 9px 14.95px 10.8px 15px;
+  position: absolute;
+  top: 45px;
+}
+
+.dashboard-CRM .text-wrapper-50 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  position: absolute;
+  top: 88px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-51 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 218px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 104px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-container-13 {
+  height: 272px;
+  left: 120px;
+  position: absolute;
+  top: 151px;
+  width: 362px;
+}
+
+.dashboard-CRM .button-21 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #383838;
+  border-radius: 10px 10px 0px 10px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 205px;
+  padding: 9px 15.69px 10.8px 14px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-22 {
+  align-items: flex-start;
+  background-color: #383838;
+  border-radius: 10px 10px 0px 10px;
+  display: inline-flex;
+  left: 58px;
+  padding: 9px 15.62px 10.8px 14px;
+  position: absolute;
+  top: 45px;
+}
+
+.dashboard-CRM .button-23 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #383838;
+  border-radius: 10px 10px 0px 10px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 205px;
+  padding: 9px 15.69px 10.8px 14px;
+  position: absolute;
+  top: 90px;
+}
+
+.dashboard-CRM .okay-i-ll-arrange-it-wrapper {
+  align-items: flex-start;
+  background-color: #383838;
+  border-radius: 10px 10px 0px 10px;
+  display: inline-flex;
+  left: 0;
+  padding: 9px 15.61px 10.19px 14px;
+  position: absolute;
+  top: 134px;
+}
+
+.dashboard-CRM .okay-i-ll-arrange-it {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-53 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 18px;
+  left: 315px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 253px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .segmented-picker-2 {
+  align-items: center;
+  background-color: #171717;
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 63.48px;
+  padding: 7px 8px;
+  position: relative;
+}
+
+.dashboard-CRM .segmented-picker-wrapper {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.dashboard-CRM .segmented-picker-3 {
+  background-color: #171717;
+  border-radius: 6px;
+  flex: 1;
+  flex-grow: 1;
+  height: 36.8px;
+  position: relative;
+}
+
+.dashboard-CRM .button-24 {
+  all: unset;
+  background-color: #0d99ff;
+  border: 1px solid;
+  border-radius: 6px;
+  box-sizing: border-box;
+  height: 38px;
+  position: relative;
+  width: 76.12px;
+}
+
+.dashboard-CRM .text-wrapper-54 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 20px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-input-container-6 {
+  height: 16px;
+  left: 51px;
+  position: absolute;
+  top: 12px;
+  width: 16px;
+}
+
+.dashboard-CRM .table-2 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 616px;
+  left: 561px;
+  position: absolute;
+  top: 1066px;
+  width: 660px;
+}
+
+.dashboard-CRM .horizontal-container-11 {
+  align-items: flex-start;
+  border-radius: 11px 11px 0px 0px;
+  display: inline-flex;
+  gap: 318.14px;
+  left: 1px;
+  padding: 24px 20px 20px;
+  position: absolute;
+  top: 1px;
+}
+
+.dashboard-CRM .button-container-14 {
+  height: 24px;
+  position: relative;
+  width: 132.27px;
+}
+
+.dashboard-CRM .overlap-group-8 {
+  height: 24px;
+  position: relative;
+  width: 132px;
+}
+
+.dashboard-CRM .text-wrapper-55 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-25 {
+  background-color: #242424;
+  border-radius: 4px;
+  height: 24px;
+  left: 59px;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.dashboard-CRM .container-13 {
+  height: 20px;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 2px;
+  width: 41px;
+}
+
+.dashboard-CRM .container-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-56 {
+  color: #0d99ff;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 11.2px;
+  font-weight: 400;
+  height: 20px;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .input-form-container-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 1px;
+  position: absolute;
+  top: 69px;
+}
+
+.dashboard-CRM .input-form-container-3 {
+  height: 550.69px;
+  position: relative;
+  width: 658.41px;
+}
+
+.dashboard-CRM .product-name-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 215.75px;
+}
+
+.dashboard-CRM .product-name {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.dashboard-CRM .price-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 90.62px;
+}
+
+.dashboard-CRM .price {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.dashboard-CRM .orders-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 101.72px;
+}
+
+.dashboard-CRM .orders {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.dashboard-CRM .stock-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 142.08px;
+}
+
+.dashboard-CRM .stock {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.dashboard-CRM .amount-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 108.23px;
+}
+
+.dashboard-CRM .amount {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.dashboard-CRM .div-wrapper-2 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 10px 20px 11px;
+  position: relative;
+}
+
+.dashboard-CRM .div-12 {
+  height: 45px;
+  position: relative;
+  width: 175.75px;
+}
+
+.dashboard-CRM .paragraph-container-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 55px;
+  padding: 0px 0px 0.5px;
+  position: absolute;
+  top: 1px;
+}
+
+.dashboard-CRM .text-wrapper-57 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-58 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .image-6 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.dashboard-CRM .horizontal-container-12 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 22.75px 27.62px 23.25px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-15 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 22.75px 57.72px 23.25px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-59 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .card-4 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 18.5px 50.78px 19.5px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .button-26 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #3ac9771a;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 12.3px 5px 11px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-16 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 22.75px 20.05px 23.25px 33.19px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-60 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-container-15 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 18.5px 25.31px 19.5px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .button-27 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #ff5e5e26;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 11.77px 5px 12px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-61 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 510px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-container-16 {
+  background-color: #242424;
+  border-radius: 16px;
+  height: 44px;
+  left: 504px;
+  position: absolute;
+  top: 502px;
+  width: 154px;
+}
+
+.dashboard-CRM .calendar-2 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 616px;
+  left: 1246px;
+  position: absolute;
+  top: 1066px;
+  width: 386px;
+}
+
+.dashboard-CRM .text-wrapper-62 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 23px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.dashboard-CRM .input-form-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 1px;
+  padding: 8px;
+  position: absolute;
+  top: 53px;
+}
+
+.dashboard-CRM .div-13 {
+  height: 46px;
+  position: relative;
+  width: 368.25px;
+}
+
+.dashboard-CRM .container-15 {
+  background-color: #0d99ff1a;
+  border-radius: 6px;
+  height: 32px;
+  left: 14px;
+  position: absolute;
+  top: 7px;
+  width: 32px;
+}
+
+.dashboard-CRM .text-wrapper-63 {
+  color: #0d99ff;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+  width: 9px;
+}
+
+.dashboard-CRM .text-wrapper-64 {
+  color: #828690;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 20px;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .container-16 {
+  background-color: #0d99ff1a;
+  border-radius: 6px;
+  height: 32px;
+  left: 323px;
+  position: absolute;
+  top: 7px;
+  width: 32px;
+}
+
+.dashboard-CRM .button-28 {
+  all: unset;
+  background-color: #1e1e1e;
+  box-sizing: border-box;
+  height: 34px;
+  position: relative;
+  width: 59.02px;
+}
+
+.dashboard-CRM .text-wrapper-65 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.dashboard-CRM .button-29 {
+  all: unset;
+  background-color: #1e1e1e;
+  box-sizing: border-box;
+  height: 34px;
+  position: relative;
+  width: 50.03px;
+}
+
+.dashboard-CRM .text-wrapper-66 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.dashboard-CRM .text-wrapper-67 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.dashboard-CRM .text-wrapper-68 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.dashboard-CRM .text-wrapper-69 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.dashboard-CRM .button-30 {
+  all: unset;
+  background-color: #1e1e1e;
+  box-sizing: border-box;
+  height: 34px;
+  position: relative;
+  width: 59.08px;
+}
+
+.dashboard-CRM .text-wrapper-70 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 18px;
+}
+
+.dashboard-CRM .text-wrapper-71 {
+  color: #ff5e5e;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-72 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-73 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-74 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-75 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 230px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-76 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 280px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-77 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-78 {
+  color: #ff5e5e;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-79 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 129px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-80 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 180px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-81 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 277px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-31 {
+  all: unset;
+  background-color: #0d99ff;
+  border-radius: 6px;
+  box-sizing: border-box;
+  height: 46px;
+  left: 59px;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.dashboard-CRM .container-17 {
+  background-color: #ff5e5e;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 6.5px;
+  height: 13px;
+  left: 39px;
+  position: absolute;
+  top: -2px;
+  width: 13px;
+}
+
+.dashboard-CRM .text-wrapper-82 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 9px;
+}
+
+.dashboard-CRM .text-wrapper-83 {
+  color: #ff5e5e;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-84 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-85 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 176px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-86 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-87 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 278px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-88 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 331px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-89 {
+  color: #ff5e5e;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-90 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-91 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-92 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 276px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-93 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-94 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 225px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-95 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 336px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-96 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-97 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-98 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-input-container-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.dashboard-CRM .events-wrapper {
+  align-items: flex-start;
+  border-color: #444444;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 9px 297.25px 10px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .text-input-container-8 {
+  height: 144px;
+  overflow: hidden;
+  position: relative;
+  width: 368.25px;
+}
+
+.dashboard-CRM .text-input-container-9 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  height: 76px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.dashboard-CRM .text-input-6 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 236px;
+}
+
+.dashboard-CRM .paragraph-container-17 {
+  background-color: #0d99ff1a;
+  border-radius: 6px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.dashboard-CRM .overlap-group-9 {
+  height: 43px;
+  left: 12px;
+  position: relative;
+  top: 4px;
+  width: 30px;
+}
+
+.dashboard-CRM .text-wrapper-99 {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 28px;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.dashboard-CRM .text-wrapper-100 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 30px;
+}
+
+.dashboard-CRM .paragraph-container-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.5px;
+  left: 63px;
+  position: absolute;
+  top: 5px;
+}
+
+.dashboard-CRM .text-wrapper-101 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-102 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-103 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 271px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.dashboard-CRM .text-input-container-10 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  height: 76px;
+  left: 20px;
+  position: absolute;
+  top: 76px;
+  width: 328px;
+}
+
+.dashboard-CRM .vertical-container-5 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 486px;
+  left: 12px;
+  position: absolute;
+  top: 1711px;
+  width: 386px;
+}
+
+.dashboard-CRM .button-container-17 {
+  align-items: flex-start;
+  border-radius: 11px 11px 0px 0px;
+  display: inline-flex;
+  gap: 150.78px;
+  left: 1px;
+  padding: 24px 20px 0px;
+  position: absolute;
+  top: 1px;
+}
+
+.dashboard-CRM .button-32 {
+  background-color: #242424;
+  border-radius: 4px;
+  height: 24px;
+  position: relative;
+  width: 73.47px;
+}
+
+.dashboard-CRM .vertical-container-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.02px;
+  left: 1px;
+  padding: 20px 20px 47.91px;
+  position: absolute;
+  top: 49px;
+}
+
+.dashboard-CRM .switch-container-5 {
+  height: 187.02px;
+  position: relative;
+  width: 250px;
+}
+
+.dashboard-CRM .switch-container-6 {
+  height: 187px;
+}
+
+.dashboard-CRM .switch-container-7 {
+  height: 176px;
+  left: 34px;
+  position: relative;
+  width: 184px;
+}
+
+.dashboard-CRM .switch-container-8 {
+  height: 168px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 168px;
+}
+
+.dashboard-CRM .overlap-6 {
+  background-image: url(./switch-container.png);
+  background-size: 100% 100%;
+  height: 170px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 170px;
+}
+
+.dashboard-CRM .paragraph-container-19 {
+  height: 39px;
+  left: 52px;
+  position: relative;
+  top: 60px;
+  width: 69px;
+}
+
+.dashboard-CRM .overlap-group-10 {
+  height: 39px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 65px;
+}
+
+.dashboard-CRM .svgjs-text-31 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #828690;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.dashboard-CRM .svgjs-text-32 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #828690;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.dashboard-CRM .img-wrapper {
+  background-image: url(./svgjs-line-1378.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: -80px;
+  position: absolute;
+  top: -2553px;
+  width: 184px;
+}
+
+.dashboard-CRM .svgjs-line-7 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.dashboard-CRM .horizontal-container-13 {
+  height: 45.19px;
+  position: relative;
+  width: 344.25px;
+}
+
+.dashboard-CRM .container-18 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 162px;
+}
+
+.dashboard-CRM .slider-container-12 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.dashboard-CRM .text-wrapper-104 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 26px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-wrapper-105 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 264px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .horizontal-container-14 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 143px;
+}
+
+.dashboard-CRM .button-33 {
+  all: unset;
+  box-sizing: border-box;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 95px;
+}
+
+.dashboard-CRM .horizontal-container-15 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 100px;
+}
+
+.dashboard-CRM .table-3 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 486px;
+  left: 424px;
+  position: absolute;
+  top: 1711px;
+  width: 1209px;
+}
+
+.dashboard-CRM .horizontal-container-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 1px;
+  position: relative;
+  top: 1px;
+}
+
+.dashboard-CRM .horizontal-container-17 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 802.59px;
+  padding: 20px;
+  position: relative;
+}
+
+.dashboard-CRM .button-container-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.75px;
+  position: relative;
+}
+
+.dashboard-CRM .button-34 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #0d99ff;
+  border: 1px solid;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 6px 11.97px 6px 13px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-106 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .button-35 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #2c2c2c;
+  border: 1px solid;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 6px 12.44px 6px 13px;
+  position: relative;
+}
+
+.dashboard-CRM .input-form-container-4 {
+  height: 418.69px;
+  position: relative;
+  width: 1206.75px;
+}
+
+.dashboard-CRM .button-36 {
+  align-items: flex-start;
+  border-radius: 2px;
+  display: inline-flex;
+  left: 757px;
+  overflow: hidden;
+  padding: 5.5px 13px 7.3px 12px;
+  position: absolute;
+  top: -52px;
+}
+
+.dashboard-CRM .employee-ID-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 172.17px;
+}
+
+.dashboard-CRM .employee-name-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 237.17px;
+}
+
+.dashboard-CRM .employee-name {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 123px;
+}
+
+.dashboard-CRM .email-address-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 183.84px;
+}
+
+.dashboard-CRM .email-address {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.dashboard-CRM .contact-number-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 199.44px;
+}
+
+.dashboard-CRM .contact-number {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.dashboard-CRM .gender-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 130.31px;
+}
+
+.dashboard-CRM .gender {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.dashboard-CRM .location-wrapper {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 138.11px;
+}
+
+.dashboard-CRM .location {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.dashboard-CRM .button-37 {
+  background-color: #1e1e1e;
+  height: 39.5px;
+  position: relative;
+  width: 145.7px;
+}
+
+.dashboard-CRM .status-2 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  text-align: right;
+  top: 9px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.dashboard-CRM .text-input-7 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 22.75px 127.17px 23.25px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .div-14 {
+  height: 45px;
+  position: relative;
+  width: 197.17px;
+}
+
+.dashboard-CRM .input {
+  align-items: flex-start;
+  background: none;
+  border: none;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  color: #ffffff;
+  display: inline-flex;
+  flex: 0 0 auto;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  padding: 22.75px 54.84px 23.25px 20px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-input-8 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 22.75px 71.44px 23.25px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-17 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 22.75px 78.31px 23.25px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .slider-18 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 22.75px 86.11px 23.25px 20px;
+  position: relative;
+}
+
+.dashboard-CRM .card-5 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 18.5px 20px 19.5px 64.19px;
+  position: relative;
+}
+
+.dashboard-CRM .button-38 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #3ac9771a;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 12.52px 5px 11px;
+  position: relative;
+}
+
+.dashboard-CRM .button-container-19 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 18.5px 20px 19.5px 52.14px;
+  position: relative;
+}
+
+.dashboard-CRM .button-39 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #ff5e5e26;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 12.56px 5px 11px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-107 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 378px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .button-container-20 {
+  background-color: #242424;
+  border-radius: 16px;
+  height: 44px;
+  left: 1053px;
+  position: absolute;
+  top: 370px;
+  width: 154px;
+}
+
+.dashboard-CRM .slider-19 {
+  background-color: #242424;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 1680px;
+}
+
+.dashboard-CRM .horizontal-container-18 {
+  height: 26px;
+  left: 31px;
+  position: absolute;
+  top: 10px;
+  width: 287px;
+}
+
+.dashboard-CRM .text-wrapper-108 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  height: 26px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.5px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .container-19 {
+  height: 19px;
+  left: 128px;
+  position: absolute;
+  top: 3px;
+  width: 63px;
+}
+
+.dashboard-CRM .vertical-container-7 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.dashboard-CRM .text-wrapper-109 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 20px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .paragraph-container-20 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 7.69px;
+  left: 191px;
+  padding: 0px 0px 0px 8px;
+  position: absolute;
+  top: 3px;
+}
+
+.dashboard-CRM .text-wrapper-110 {
+  color: #0d99ff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-111 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 1577px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.dashboard-CRM .text-input-9 {
+  background-color: #242424;
+  border-color: #444444;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 2369px;
+  width: 1920px;
+}
+
+.dashboard-CRM .container-20 {
+  height: 25px;
+  left: 111px;
+  position: relative;
+  top: 16px;
+  width: 1794px;
+}
+
+.dashboard-CRM .text-wrapper-112 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 744px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 335px;
+}
+
+.dashboard-CRM .slider-container-13 {
+  background-color: #2c2c2c;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.dashboard-CRM .slider-20 {
+  height: 50px;
+  left: 290px;
+  position: relative;
+  width: 1613px;
+}
+
+.dashboard-CRM .button-container-21 {
+  background-color: #202020;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 240px;
+}
+
+.dashboard-CRM .overlap-group-11 {
+  height: 45px;
+  position: relative;
+}
+
+.dashboard-CRM .button-40 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.dashboard-CRM .text-input-wrapper {
+  background-color: #464646;
+  border-radius: 0px 6px 6px 0px;
+  height: 45px;
+  left: 49px;
+  position: absolute;
+  top: 0;
+  width: 191px;
+}
+
+.dashboard-CRM .text-input-10 {
+  background: none;
+  border: none;
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  padding-left: 0;
+  position: relative;
+  top: 12px;
+  width: 175px;
+}
+
+.dashboard-CRM .horizontal-container-19 {
+  height: 50px;
+  left: 1155px;
+  position: absolute;
+  top: 0;
+  width: 459px;
+}
+
+.dashboard-CRM .text-input-container-11 {
+  height: 24px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.dashboard-CRM .text-input-container-12 {
+  height: 24px;
+  left: 64px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.dashboard-CRM .text-input-container-13 {
+  height: 22px;
+  left: 115px;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.dashboard-CRM .button-container-22 {
+  all: unset;
+  align-items: flex-start;
+  border-color: #ffffff1f;
+  border-right-style: solid;
+  border-right-width: 1px;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 188px;
+  padding: 10px 21px 10px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .button-41 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #0d99ff;
+  border: 1px solid;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 6px 12.11px 6px 13px;
+  position: relative;
+}
+
+.dashboard-CRM .vertical-container-8 {
+  height: 33px;
+  left: 303px;
+  position: absolute;
+  top: 8px;
+  width: 147px;
+}
+
+.dashboard-CRM .image-7 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+
+.dashboard-CRM .paragraph-container-21 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4.02px;
+  left: 37px;
+  padding: 0px 0px 4px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .text-wrapper-113 {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 13.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-114 {
+  color: #e1e1e1;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-input-container-14 {
+  background-color: #2c2c2c;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.dashboard-CRM .overlap-7 {
+  height: 50px;
+  position: relative;
+  width: 288px;
+}
+
+.dashboard-CRM .text-input-container-15 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.dashboard-CRM .text-input-container-16 {
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 19px;
+  width: 47px;
+}
+
+.dashboard-CRM .text-wrapper-115 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  height: 26px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 25.5px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.dashboard-CRM .text-input-container-wrapper {
+  background-color: #202020;
+  border-radius: 2px;
+  height: 49px;
+  left: 239px;
+  position: absolute;
+  top: 1px;
+  width: 49px;
+}
+
+.dashboard-CRM .text-input-container-17 {
+  height: 27px;
+  left: 13px;
+  position: relative;
+  top: 10px;
+  width: 26px;
+}
+
+.dashboard-CRM .text-input-11 {
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.dashboard-CRM .text-input-12 {
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.dashboard-CRM .text-input-13 {
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.dashboard-CRM .card-wrapper {
+  background-color: #242424;
+  border-color: #444444;
+  border-right-style: solid;
+  border-right-width: 1px;
+  box-shadow: 0px 15px 30px #00000005;
+  height: 1030px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 240px;
+}
+
+.dashboard-CRM .card-6 {
+  height: 1004px;
+  overflow: hidden;
+  position: relative;
+  top: 16px;
+  width: 239px;
+}
+
+.dashboard-CRM .table-4 {
+  height: 913px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.dashboard-CRM .text-wrapper-116 {
+  color: #0d99ff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 17px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.dashboard-CRM .text-input-container-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 36px;
+}
+
+.dashboard-CRM .text-input-14 {
+  align-items: flex-start;
+  background-color: #0d99ff0d;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10.08px;
+  padding: 12px 111.92px 11.73px 24px;
+  position: relative;
+}
+
+.dashboard-CRM .img-6 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+  z-index: 2;
+}
+
+.dashboard-CRM .text-input-15 {
+  border: 1px solid;
+  border-color: #888888;
+  height: 7px;
+  left: 208px;
+  position: absolute;
+  top: 16px;
+  transform: rotate(-135deg);
+  width: 7px;
+  z-index: 1;
+}
+
+.dashboard-CRM .text-wrapper-117 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+  z-index: 0;
+}
+
+.dashboard-CRM .a {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 111.92px 12px 24px;
+  position: absolute;
+  top: 97px;
+}
+
+.dashboard-CRM .svg {
+  height: 22px;
+  position: relative;
+  width: 22px;
+  z-index: 1;
+}
+
+.dashboard-CRM .text-wrapper-118 {
+  color: #b3b3b3;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+  z-index: 0;
+}
+
+.dashboard-CRM .a-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 130.92px 12px 24px;
+  position: absolute;
+  top: 142px;
+}
+
+.dashboard-CRM .a-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 130.92px 12px 24px;
+  position: absolute;
+  top: 186px;
+}
+
+.dashboard-CRM .a-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 145.92px 12px 24px;
+  position: absolute;
+  top: 231px;
+}
+
+.dashboard-CRM .svg-2 {
+  height: 22px;
+  position: relative;
+  width: 22px;
+  z-index: 2;
+}
+
+.dashboard-CRM .pseudo {
+  border: 1px solid;
+  border-color: #c8c8c8;
+  height: 7px;
+  left: 208px;
+  position: absolute;
+  top: 16px;
+  transform: rotate(135deg);
+  width: 7px;
+  z-index: 1;
+}
+
+.dashboard-CRM .a-5 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 97.92px 12px 24px;
+  position: absolute;
+  top: 276px;
+}
+
+.dashboard-CRM .a-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 130.92px 12px 24px;
+  position: absolute;
+  top: 320px;
+}
+
+.dashboard-CRM .a-7 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 132.92px 12px 24px;
+  position: absolute;
+  top: 365px;
+}
+
+.dashboard-CRM .a-8 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 80.92px 12px 24px;
+  position: absolute;
+  top: 410px;
+}
+
+.dashboard-CRM .text-wrapper-119 {
+  color: #0d99ff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 17px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 462px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.dashboard-CRM .a-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 12px 150.92px 11.73px 24px;
+  position: absolute;
+  top: 491px;
+}
+
+.dashboard-CRM .text-wrapper-120 {
+  color: #b3b3b3;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+  z-index: 0;
+}
+
+.dashboard-CRM .a-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 12px 140.92px 11.73px 24px;
+  position: absolute;
+  top: 534px;
+}
+
+.dashboard-CRM .a-11 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 12px 122.92px 11.52px 24px;
+  position: absolute;
+  top: 578px;
+}
+
+.dashboard-CRM .svg-3 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+  z-index: 2;
+}
+
+.dashboard-CRM .a-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 12px 137.92px 11.73px 24px;
+  position: absolute;
+  top: 622px;
+}
+
+.dashboard-CRM .a-13 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 135.92px 12px 24px;
+  position: absolute;
+  top: 665px;
+}
+
+.dashboard-CRM .a-14 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 142.92px 12px 24px;
+  position: absolute;
+  top: 710px;
+}
+
+.dashboard-CRM .a-15 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 12px 152.92px 11.52px 24px;
+  position: absolute;
+  top: 755px;
+}
+
+.dashboard-CRM .svg-4 {
+  height: 15px;
+  position: relative;
+  width: 16px;
+  z-index: 2;
+}
+
+.dashboard-CRM .a-16 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10.08px;
+  left: 0;
+  padding: 10.73px 142.92px 12px 24px;
+  position: absolute;
+  top: 798px;
+}
+
+.dashboard-CRM .a-17 {
+  align-items: flex-start;
+  background-color: #0d99ff;
+  border: 1px solid;
+  border-radius: 4px;
+  display: inline-flex;
+  left: 24px;
+  padding: 6px 12.2px 6px 13px;
+  position: absolute;
+  top: 925px;
+}
+
+.dashboard-CRM .text-wrapper-121 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .div-15 {
+  background-color: #242424;
+  box-shadow: 0px 0px 30px #523f6926;
+  height: 1080px;
+  left: 1920px;
+  position: absolute;
+  top: 3px;
+  width: 340px;
+}
+
+.dashboard-CRM .div-16 {
+  height: 1081px;
+  position: relative;
+}
+
+.dashboard-CRM .text-wrapper-122 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 23px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.dashboard-CRM .ul {
+  background-color: #0d99ff1a;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 340px;
+}
+
+.dashboard-CRM .notes {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 21px;
+  opacity: 0.7;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.dashboard-CRM .alerts {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 20px;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: 21px;
+  opacity: 0.7;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.dashboard-CRM .chat-wrapper {
+  align-items: flex-start;
+  background-color: #0d99ff1a;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-color: #0d99ff;
+  display: inline-flex;
+  left: 254px;
+  padding: 7px 15.36px 12px 16px;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard-CRM .chat {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -3.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .div-17 {
+  background-color: #242424;
+  border: 1px solid;
+  border-color: #444444;
+  border-radius: 6px;
+  height: 986px;
+  left: 0;
+  position: absolute;
+  top: 95px;
+  width: 340px;
+}
+
+.dashboard-CRM .div-18 {
+  background-color: #242424;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  border-radius: 11px 11px 0px 0px;
+  height: 72px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 338px;
+}
+
+.dashboard-CRM .a-18 {
+  height: 30px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.dashboard-CRM .div-19 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 3.5px;
+  left: 135px;
+  padding: 0px 0.2px 0.39px 0px;
+  position: absolute;
+  top: 14px;
+}
+
+.dashboard-CRM .text-wrapper-123 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .text-wrapper-124 {
+  color: #888888;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .a-19 {
+  height: 30px;
+  left: 288px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.dashboard-CRM .div-DZ-w-contacts {
+  height: 912px;
+  left: 1px;
+  overflow: hidden;
+  position: absolute;
+  top: 73px;
+  width: 338px;
+}
+
+.dashboard-CRM .ul-2 {
+  height: 1125px;
+  position: relative;
+}
+
+.dashboard-CRM .li {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 30px;
+}
+
+.dashboard-CRM .div-20 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 155.75px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .div-21 {
+  background-color: #eeeeee;
+  border-radius: 40px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+  z-index: 1;
+}
+
+.dashboard-CRM .overlap-group-12 {
+  height: 40px;
+  position: relative;
+  width: 41px;
+}
+
+.dashboard-CRM .element-jpg {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.dashboard-CRM .span-2 {
+  background-color: #3ac977;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 15px;
+  height: 12px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 12px;
+}
+
+.dashboard-CRM .div-22 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  z-index: 0;
+}
+
+.dashboard-CRM .span-3 {
+  height: 18px;
+  overflow: hidden;
+  position: relative;
+  width: 100.25px;
+}
+
+.dashboard-CRM .text-wrapper-125 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.dashboard-CRM .p-2 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 100.25px;
+}
+
+.dashboard-CRM .text-wrapper-126 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: absolute;
+  top: -3px;
+  width: 88px;
+}
+
+.dashboard-CRM .li-2 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 95px;
+}
+
+.dashboard-CRM .div-23 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 103px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .span-4 {
+  background-color: #ff5e5e;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 15px;
+  height: 12px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 12px;
+}
+
+.dashboard-CRM .span-5 {
+  height: 18px;
+  position: relative;
+  width: 153px;
+}
+
+.dashboard-CRM .text-wrapper-127 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.dashboard-CRM .p-3 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 153px;
+}
+
+.dashboard-CRM .text-wrapper-128 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: absolute;
+  top: -3px;
+  width: 153px;
+}
+
+.dashboard-CRM .li-3 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 160px;
+}
+
+.dashboard-CRM .div-24 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 164.05px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .span-6 {
+  height: 18px;
+  overflow: hidden;
+  position: relative;
+  width: 91.95px;
+}
+
+.dashboard-CRM .text-wrapper-129 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.dashboard-CRM .p-4 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 91.95px;
+}
+
+.dashboard-CRM .text-wrapper-130 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: absolute;
+  top: -3px;
+  width: 90px;
+}
+
+.dashboard-CRM .li-4 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 225px;
+}
+
+.dashboard-CRM .div-25 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 106.88px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .span-7 {
+  height: 18px;
+  position: relative;
+  width: 149.12px;
+}
+
+.dashboard-CRM .text-wrapper-131 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.dashboard-CRM .p-5 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 149.12px;
+}
+
+.dashboard-CRM .text-wrapper-132 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: absolute;
+  top: -3px;
+  width: 149px;
+}
+
+.dashboard-CRM .li-5 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 320px;
+}
+
+.dashboard-CRM .div-26 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 104.14px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .span-8 {
+  height: 18px;
+  position: relative;
+  width: 151.86px;
+}
+
+.dashboard-CRM .text-wrapper-133 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.dashboard-CRM .p-6 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 151.86px;
+}
+
+.dashboard-CRM .text-wrapper-134 {
+  color: #828690;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: absolute;
+  top: -3px;
+  width: 152px;
+}
+
+.dashboard-CRM .li-6 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 385px;
+}
+
+.dashboard-CRM .div-27 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 145.38px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .span-9 {
+  height: 18px;
+  overflow: hidden;
+  position: relative;
+  width: 110.62px;
+}
+
+.dashboard-CRM .text-wrapper-135 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.dashboard-CRM .p-7 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 110.62px;
+}
+
+.dashboard-CRM .li-7 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 450px;
+}
+
+.dashboard-CRM .text-wrapper-136 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.dashboard-CRM .li-8 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 545px;
+}
+
+.dashboard-CRM .div-28 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 162.86px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .span-10 {
+  height: 18px;
+  overflow: hidden;
+  position: relative;
+  width: 93.14px;
+}
+
+.dashboard-CRM .text-wrapper-137 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.dashboard-CRM .p-8 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 93.14px;
+}
+
+.dashboard-CRM .li-9 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 610px;
+}
+
+.dashboard-CRM .text-wrapper-138 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 99px;
+}
+
+.dashboard-CRM .li-10 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 705px;
+}
+
+.dashboard-CRM .text-wrapper-139 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.dashboard-CRM .li-11 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 770px;
+}
+
+.dashboard-CRM .div-29 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 154.2px 0px 0px;
+  position: relative;
+}
+
+.dashboard-CRM .span-11 {
+  height: 18px;
+  overflow: hidden;
+  position: relative;
+  width: 101.8px;
+}
+
+.dashboard-CRM .text-wrapper-140 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.dashboard-CRM .p-9 {
+  height: 15.59px;
+  overflow: hidden;
+  position: relative;
+  width: 101.8px;
+}
+
+.dashboard-CRM .li-12 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 835px;
+}
+
+.dashboard-CRM .li-13 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 900px;
+  width: 338px;
+}
+
+.dashboard-CRM .li-14 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 3px 311px 6px 16px;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-CRM .text-wrapper-141 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-CRM .li-15 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 3px 312px 6px 16px;
+  position: absolute;
+  top: 290px;
+}
+
+.dashboard-CRM .li-16 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 3px 311px 6px 16px;
+  position: absolute;
+  top: 515px;
+}
+
+.dashboard-CRM .li-17 {
+  align-items: flex-start;
+  background-color: #1e1e1e;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #444444;
+  display: inline-flex;
+  left: 0;
+  padding: 3px 313px 6px 16px;
+  position: absolute;
+  top: 675px;
+}
