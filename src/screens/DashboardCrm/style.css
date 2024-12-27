@@ -3,23 +3,36 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+  flex-wrap: wrap;
   width: 100%;
 }
 
 .dashboard-CRM .div {
   background-color: #1e1e1e;
-  height: 2424.75px;
+  height: auto;
   overflow-x: hidden;
   position: relative;
-  width: 1920px;
+  width: 100%;
+  max-width: 1920px; /* Optional: Set a maximum width */
 }
 
 .dashboard-CRM .div-2 {
-  height: 2425px;
+  height: auto;
   left: 0;
   position: absolute;
   top: 0;
-  width: 1920px;
+  width: 100%;
+  max-width: 1920px;
+}
+
+@media (max-width: 768px) {
+  .dashboard-CRM {
+      flex-direction: column;
+  }
+
+  .dashboard-CRM .div, .dashboard-CRM .div-2 {
+      width: 100%;
+  }
 }
 
 .dashboard-CRM .calendar-container {
